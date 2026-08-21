@@ -223,3 +223,6 @@ h1 .stroke{
 @media (prefers-reduced-motion: reduce){
   .card, .card img{ transition: none; }
 }
+span{
+font-size: 200%;
+}
